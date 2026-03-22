@@ -21,18 +21,26 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ec665ac0-e8e6-4d9f-a894-a9f3562716c0" />
+
 
 
 
 
 **TABULATION:**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/70f9d202-6bf5-4112-85d1-84d9bdbfc3b3" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3220bc75-697e-4b9d-b3a7-e9cb793dc09d" />
+
+OUTPUT WAVEFORM:
+<img width="1600" height="318" alt="image" src="https://github.com/user-attachments/assets/575169dd-7bfc-4a93-a17f-8cfeb1da048b" />
 
 
-**Calculation:**
 
 
 
 **Marksplitup:**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5854a5d-4868-4353-ad64-306a5ef0a07a" />
+
 
 
 **RESULT:**
